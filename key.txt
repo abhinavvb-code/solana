@@ -1,0 +1,7 @@
+Wrote new keypair to my_wallet.json
+=============================================================================
+pubkey: 3gK6SWaoYcqLACuYMxKs3ud5L5xHu5vbyavrNf9388sh
+=============================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+run brown destroy remind subject summer worry consider fancy stamp dog permit
+=============================================================================
